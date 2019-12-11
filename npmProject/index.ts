@@ -10,6 +10,7 @@ console.log(foo);
 var array = [1,2,3,4,5];
 
 // Type defination or define type
+// cmd: npm install lodash
 // cmd: npm install @types/lodash --save-dev
 
 console.log(array);
