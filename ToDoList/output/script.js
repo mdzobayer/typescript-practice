@@ -16,6 +16,8 @@ function PrintList() {
 
 function AddItem() {
     var x = document.getElementById("item").value;
-    console.log("New item added: " + x);
-    myList.push(x);
+    if (x != "") {
+        console.log("New item added: " + x);
+        myList.push(x);
+    }
 }
