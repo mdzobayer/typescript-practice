@@ -1,4 +1,4 @@
-
+// Reference: https://stackoverflow.com/questions/53071851/getting-the-value-from-input-element-in-typescript
 
 var myList : string [] = [];
 
